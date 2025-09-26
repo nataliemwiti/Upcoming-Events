@@ -1,1 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Upcoming Events</title>
+  <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+  <header>
+    <h1>The Loop Nairobi</h1>
+    <div class="controls">
+      <input type="text" id="search" placeholder="Search events by name...">
+      <select id="filter">
+        <option value="all">All Events</option>
+        <option value="month">This Month</option>
+        <option value="year">This Year</option>
+      </select>
+      <select id="sort">
+        <option value="all" selected>All</option>
+        <option value="date-asc">Oldest</option>
+        <option value="date-desc">Newest</option>
+      </select>
+    </div>
+  </header>
 
+  <main>
+    <section id="events-section">
+      <h2>Upcoming Events</h2>
+      <ul id="events-list"></ul>
+    </section>
+
+    <section id="event-details">
+      <h2>Event Details</h2>
+      <div id="details-container">
+        <p>Select an event to see more details.</p>
+      </div>
+    </section>
+  </main>
+
+  <script src="js/index.js"></script>
+</body>
+</html>
