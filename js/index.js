@@ -10,7 +10,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
   async function loadEvents() {
     try {
-      const response = await fetch("http://localhost:3000/events");
+      const response = await fetch("events.json");
       if (!response.ok) throw new Error("Network response was not ok");
       eventsData = await response.json();
       filteredEvents = [...eventsData];
