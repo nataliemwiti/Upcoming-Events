@@ -1,0 +1,58 @@
+[
+    {
+      "id": 1,
+      "title": "Blankets & Wine",
+      "date": "2025-09-27",
+      "location": " Laureate Gardens Moi International sports center, Kasarani",
+      "description": "Home of Vibes; bringning you great music, food & experiences",
+      "image": "./images/event1.png"
+    },
+    {
+      "id": 2,
+      "title": "Choma Fest 3rd Edition",
+      "date": "2025-09-27",
+      "location": "Wine Tails Experience Karen",
+      "description": "Experience the ultimate fusion of music, food, and culture at Choma Fest 3rd Edition.",
+      "image": "./images/event2.jpeg"
+    },
+    {
+      "id": 3,
+      "title": "Focalistic Live in Kenya",
+      "date": "2025-10-10",
+      "location": "MassHouse Live",
+      "description": "This isn't just another event-this is the STRAATA NATIONAL ANTHEM live on stage.",
+      "image": "./images/event3.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Gondwana KE x Bakone",
+      "date": "2025-10-10",
+      "location": "Railway Museum Nairobi",
+      "description": "Expect an electrifying night of music, connection and world-class production in Gondwana style",
+      "image": "./images/event4.jpg"
+    },
+    {
+        "id": 5,
+        "title": "The Neon Rave",
+        "date": "2025-10-10",
+        "location": "Nairobi Street Kitchen",
+        "description": "DJ perfomances, body painting & lots of other fun activities",
+        "image": "./images/event5.jpg"
+    },
+    {
+        "id": 6,
+        "title": "AfroSwing",
+        "date": "2025-10-11",
+        "location": "Alloy Bar & Lounge",
+        "description": "A celebration of the era that gave us some of the most unforgettable sounds in UK Afroswing and Dancehall.",
+        "image": "./images/event6.jpg"
+    },
+    {
+      "id": 7,
+      "title": "KOLACOPIA 3.0",
+      "date": "2025-11-22",
+      "location": "MassHouse Live",
+      "description": "MassHouse tansforms into the ultimate playground of music, energy and unforgettable vibes.",
+      "image": "./images/event7.jpg"
+    }
+  ]
